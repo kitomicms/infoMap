@@ -1,0 +1,457 @@
+﻿location,location_code,geographic_level,time_period,school_type,applications_hk,offered_hk
+County Durham,E06000047,localAuthority,2022 May,Total,0,0
+County Durham,E06000047,localAuthority,2022 May,Primary,0,0
+County Durham,E06000047,localAuthority,2022 May,Secondary,0,0
+Darlington,E06000005,localAuthority,2022 May,Total,1,1
+Darlington,E06000005,localAuthority,2022 May,Primary,1,1
+Darlington,E06000005,localAuthority,2022 May,Secondary,0,0
+Gateshead,E08000037,localAuthority,2022 May,Total,12,12
+Gateshead,E08000037,localAuthority,2022 May,Primary,8,8
+Gateshead,E08000037,localAuthority,2022 May,Secondary,4,4
+Hartlepool,E06000001,localAuthority,2022 May,Total,2,2
+Hartlepool,E06000001,localAuthority,2022 May,Primary,2,2
+Hartlepool,E06000001,localAuthority,2022 May,Secondary,0,0
+Middlesbrough,E06000002,localAuthority,2022 May,Total,0,0
+Middlesbrough,E06000002,localAuthority,2022 May,Primary,0,0
+Middlesbrough,E06000002,localAuthority,2022 May,Secondary,0,0
+Newcastle upon Tyne,E08000021,localAuthority,2022 May,Total,0,0
+Newcastle upon Tyne,E08000021,localAuthority,2022 May,Primary,0,0
+Newcastle upon Tyne,E08000021,localAuthority,2022 May,Secondary,0,0
+North Tyneside,E08000022,localAuthority,2022 May,Total,x,x
+North Tyneside,E08000022,localAuthority,2022 May,Primary,x,x
+North Tyneside,E08000022,localAuthority,2022 May,Secondary,x,x
+Northumberland,E06000057,localAuthority,2022 May,Total,x,x
+Northumberland,E06000057,localAuthority,2022 May,Primary,x,x
+Northumberland,E06000057,localAuthority,2022 May,Secondary,x,x
+Redcar and Cleveland,E06000003,localAuthority,2022 May,Total,0,0
+Redcar and Cleveland,E06000003,localAuthority,2022 May,Primary,0,0
+Redcar and Cleveland,E06000003,localAuthority,2022 May,Secondary,0,0
+South Tyneside,E08000023,localAuthority,2022 May,Total,1,1
+South Tyneside,E08000023,localAuthority,2022 May,Primary,1,1
+South Tyneside,E08000023,localAuthority,2022 May,Secondary,0,0
+Stockton-on-Tees,E06000004,localAuthority,2022 May,Total,6,6
+Stockton-on-Tees,E06000004,localAuthority,2022 May,Primary,5,5
+Stockton-on-Tees,E06000004,localAuthority,2022 May,Secondary,1,1
+Sunderland,E08000024,localAuthority,2022 May,Total,0,0
+Sunderland,E08000024,localAuthority,2022 May,Primary,0,0
+Sunderland,E08000024,localAuthority,2022 May,Secondary,0,0
+Blackburn with Darwen,E06000008,localAuthority,2022 May,Total,2,2
+Blackburn with Darwen,E06000008,localAuthority,2022 May,Primary,0,0
+Blackburn with Darwen,E06000008,localAuthority,2022 May,Secondary,2,2
+Blackpool,E06000009,localAuthority,2022 May,Total,x,x
+Blackpool,E06000009,localAuthority,2022 May,Primary,x,x
+Blackpool,E06000009,localAuthority,2022 May,Secondary,x,x
+Bolton,E08000001,localAuthority,2022 May,Total,x,x
+Bolton,E08000001,localAuthority,2022 May,Primary,x,x
+Bolton,E08000001,localAuthority,2022 May,Secondary,x,x
+Bury,E08000002,localAuthority,2022 May,Total,x,x
+Bury,E08000002,localAuthority,2022 May,Primary,x,x
+Bury,E08000002,localAuthority,2022 May,Secondary,x,x
+Cheshire East,E06000049,localAuthority,2022 May,Total,122,104
+Cheshire East,E06000049,localAuthority,2022 May,Primary,84,71
+Cheshire East,E06000049,localAuthority,2022 May,Secondary,38,33
+Cheshire West and Chester,E06000050,localAuthority,2022 May,Total,57,53
+Cheshire West and Chester,E06000050,localAuthority,2022 May,Primary,31,28
+Cheshire West and Chester,E06000050,localAuthority,2022 May,Secondary,26,25
+Cumbria,E10000006,localAuthority,2022 May,Total,x,x
+Cumbria,E10000006,localAuthority,2022 May,Primary,x,x
+Cumbria,E10000006,localAuthority,2022 May,Secondary,x,x
+Halton,E06000006,localAuthority,2022 May,Total,3,2
+Halton,E06000006,localAuthority,2022 May,Primary,0,0
+Halton,E06000006,localAuthority,2022 May,Secondary,3,2
+Knowsley,E08000011,localAuthority,2022 May,Total,2,2
+Knowsley,E08000011,localAuthority,2022 May,Primary,0,0
+Knowsley,E08000011,localAuthority,2022 May,Secondary,2,2
+Lancashire,E10000017,localAuthority,2022 May,Total,x,x
+Lancashire,E10000017,localAuthority,2022 May,Primary,x,x
+Lancashire,E10000017,localAuthority,2022 May,Secondary,x,x
+Liverpool,E08000012,localAuthority,2022 May,Total,x,x
+Liverpool,E08000012,localAuthority,2022 May,Primary,x,x
+Liverpool,E08000012,localAuthority,2022 May,Secondary,x,x
+Manchester,E08000003,localAuthority,2022 May,Total,59,59
+Manchester,E08000003,localAuthority,2022 May,Primary,27,27
+Manchester,E08000003,localAuthority,2022 May,Secondary,32,32
+Oldham,E08000004,localAuthority,2022 May,Total,2,2
+Oldham,E08000004,localAuthority,2022 May,Primary,2,2
+Oldham,E08000004,localAuthority,2022 May,Secondary,0,0
+Rochdale,E08000005,localAuthority,2022 May,Total,x,x
+Rochdale,E08000005,localAuthority,2022 May,Primary,x,x
+Rochdale,E08000005,localAuthority,2022 May,Secondary,x,x
+Salford,E08000006,localAuthority,2022 May,Total,x,x
+Salford,E08000006,localAuthority,2022 May,Primary,x,x
+Salford,E08000006,localAuthority,2022 May,Secondary,x,x
+Sefton,E08000014,localAuthority,2022 May,Total,4,4
+Sefton,E08000014,localAuthority,2022 May,Primary,0,0
+Sefton,E08000014,localAuthority,2022 May,Secondary,4,4
+St. Helens,E08000013,localAuthority,2022 May,Total,13,13
+St. Helens,E08000013,localAuthority,2022 May,Primary,3,3
+St. Helens,E08000013,localAuthority,2022 May,Secondary,10,10
+Stockport,E08000007,localAuthority,2022 May,Total,0,0
+Stockport,E08000007,localAuthority,2022 May,Primary,0,0
+Stockport,E08000007,localAuthority,2022 May,Secondary,0,0
+Tameside,E08000008,localAuthority,2022 May,Total,34,32
+Tameside,E08000008,localAuthority,2022 May,Primary,22,20
+Tameside,E08000008,localAuthority,2022 May,Secondary,12,12
+Trafford,E08000009,localAuthority,2022 May,Total,x,x
+Trafford,E08000009,localAuthority,2022 May,Primary,274,259
+Trafford,E08000009,localAuthority,2022 May,Secondary,x,x
+Warrington,E06000007,localAuthority,2022 May,Total,x,x
+Warrington,E06000007,localAuthority,2022 May,Primary,x,x
+Warrington,E06000007,localAuthority,2022 May,Secondary,x,x
+Wigan,E08000010,localAuthority,2022 May,Total,x,x
+Wigan,E08000010,localAuthority,2022 May,Primary,x,x
+Wigan,E08000010,localAuthority,2022 May,Secondary,x,x
+Wirral,E08000015,localAuthority,2022 May,Total,40,32
+Wirral,E08000015,localAuthority,2022 May,Primary,19,15
+Wirral,E08000015,localAuthority,2022 May,Secondary,21,17
+Barnsley,E08000016,localAuthority,2022 May,Total,0,0
+Barnsley,E08000016,localAuthority,2022 May,Primary,0,0
+Barnsley,E08000016,localAuthority,2022 May,Secondary,0,0
+Bradford,E08000032,localAuthority,2022 May,Total,x,x
+Bradford,E08000032,localAuthority,2022 May,Primary,x,x
+Bradford,E08000032,localAuthority,2022 May,Secondary,x,x
+Calderdale,E08000033,localAuthority,2022 May,Total,1,1
+Calderdale,E08000033,localAuthority,2022 May,Primary,0,0
+Calderdale,E08000033,localAuthority,2022 May,Secondary,1,1
+Doncaster,E08000017,localAuthority,2022 May,Total,8,8
+Doncaster,E08000017,localAuthority,2022 May,Primary,3,3
+Doncaster,E08000017,localAuthority,2022 May,Secondary,5,5
+East Riding of Yorkshire,E06000011,localAuthority,2022 May,Total,x,x
+East Riding of Yorkshire,E06000011,localAuthority,2022 May,Primary,x,x
+East Riding of Yorkshire,E06000011,localAuthority,2022 May,Secondary,x,x
+"Kingston upon Hull, City of",E06000010,localAuthority,2022 May,Total,17,17
+"Kingston upon Hull, City of",E06000010,localAuthority,2022 May,Primary,9,9
+"Kingston upon Hull, City of",E06000010,localAuthority,2022 May,Secondary,8,8
+Kirklees,E08000034,localAuthority,2022 May,Total,0,0
+Kirklees,E08000034,localAuthority,2022 May,Primary,0,0
+Kirklees,E08000034,localAuthority,2022 May,Secondary,0,0
+Leeds,E08000035,localAuthority,2022 May,Total,213,166
+Leeds,E08000035,localAuthority,2022 May,Primary,148,118
+Leeds,E08000035,localAuthority,2022 May,Secondary,65,48
+North East Lincolnshire,E06000012,localAuthority,2022 May,Total,8,8
+North East Lincolnshire,E06000012,localAuthority,2022 May,Primary,x,x
+North East Lincolnshire,E06000012,localAuthority,2022 May,Secondary,x,x
+North Lincolnshire,E06000013,localAuthority,2022 May,Total,0,0
+North Lincolnshire,E06000013,localAuthority,2022 May,Primary,0,0
+North Lincolnshire,E06000013,localAuthority,2022 May,Secondary,0,0
+North Yorkshire,E10000023,localAuthority,2022 May,Total,x,x
+North Yorkshire,E10000023,localAuthority,2022 May,Primary,x,x
+North Yorkshire,E10000023,localAuthority,2022 May,Secondary,x,x
+Rotherham,E08000018,localAuthority,2022 May,Total,9,7
+Rotherham,E08000018,localAuthority,2022 May,Primary,7,5
+Rotherham,E08000018,localAuthority,2022 May,Secondary,2,2
+Sheffield,E08000019,localAuthority,2022 May,Total,x,55
+Sheffield,E08000019,localAuthority,2022 May,Primary,x,34
+Sheffield,E08000019,localAuthority,2022 May,Secondary,x,21
+Wakefield,E08000036,localAuthority,2022 May,Total,14,13
+Wakefield,E08000036,localAuthority,2022 May,Primary,10,9
+Wakefield,E08000036,localAuthority,2022 May,Secondary,4,4
+York,E06000014,localAuthority,2022 May,Total,34,34
+York,E06000014,localAuthority,2022 May,Primary,22,22
+York,E06000014,localAuthority,2022 May,Secondary,12,12
+Derby,E06000015,localAuthority,2022 May,Total,59,44
+Derby,E06000015,localAuthority,2022 May,Primary,55,42
+Derby,E06000015,localAuthority,2022 May,Secondary,4,2
+Derbyshire,E10000007,localAuthority,2022 May,Total,0,0
+Derbyshire,E10000007,localAuthority,2022 May,Primary,0,0
+Derbyshire,E10000007,localAuthority,2022 May,Secondary,0,0
+Leicester,E06000016,localAuthority,2022 May,Total,2,2
+Leicester,E06000016,localAuthority,2022 May,Primary,1,1
+Leicester,E06000016,localAuthority,2022 May,Secondary,1,1
+Leicestershire,E10000018,localAuthority,2022 May,Total,0,0
+Leicestershire,E10000018,localAuthority,2022 May,Primary,0,0
+Leicestershire,E10000018,localAuthority,2022 May,Secondary,0,0
+Lincolnshire,E10000019,localAuthority,2022 May,Total,0,0
+Lincolnshire,E10000019,localAuthority,2022 May,Primary,0,0
+Lincolnshire,E10000019,localAuthority,2022 May,Secondary,0,0
+North Northamptonshire,E06000061,localAuthority,2022 May,Total,7,7
+North Northamptonshire,E06000061,localAuthority,2022 May,Primary,7,7
+North Northamptonshire,E06000061,localAuthority,2022 May,Secondary,0,0
+Nottingham,E06000018,localAuthority,2022 May,Total,x,x
+Nottingham,E06000018,localAuthority,2022 May,Primary,x,x
+Nottingham,E06000018,localAuthority,2022 May,Secondary,x,x
+Nottinghamshire,E10000024,localAuthority,2022 May,Total,649,638
+Nottinghamshire,E10000024,localAuthority,2022 May,Primary,447,442
+Nottinghamshire,E10000024,localAuthority,2022 May,Secondary,202,196
+Rutland,E06000017,localAuthority,2022 May,Total,x,x
+Rutland,E06000017,localAuthority,2022 May,Primary,x,x
+Rutland,E06000017,localAuthority,2022 May,Secondary,x,x
+West Northamptonshire,E06000062,localAuthority,2022 May,Total,15,15
+West Northamptonshire,E06000062,localAuthority,2022 May,Primary,9,9
+West Northamptonshire,E06000062,localAuthority,2022 May,Secondary,6,6
+Birmingham,E08000025,localAuthority,2022 May,Total,92,92
+Birmingham,E08000025,localAuthority,2022 May,Primary,x,x
+Birmingham,E08000025,localAuthority,2022 May,Secondary,x,x
+Coventry,E08000026,localAuthority,2022 May,Total,38,34
+Coventry,E08000026,localAuthority,2022 May,Primary,24,23
+Coventry,E08000026,localAuthority,2022 May,Secondary,14,11
+Dudley,E08000027,localAuthority,2022 May,Total,x,x
+Dudley,E08000027,localAuthority,2022 May,Primary,x,x
+Dudley,E08000027,localAuthority,2022 May,Secondary,x,x
+"Herefordshire, County of",E06000019,localAuthority,2022 May,Total,1,1
+"Herefordshire, County of",E06000019,localAuthority,2022 May,Primary,1,1
+"Herefordshire, County of",E06000019,localAuthority,2022 May,Secondary,0,0
+Sandwell,E08000028,localAuthority,2022 May,Total,8,6
+Sandwell,E08000028,localAuthority,2022 May,Primary,3,1
+Sandwell,E08000028,localAuthority,2022 May,Secondary,5,5
+Shropshire,E06000051,localAuthority,2022 May,Total,x,x
+Shropshire,E06000051,localAuthority,2022 May,Primary,x,x
+Shropshire,E06000051,localAuthority,2022 May,Secondary,x,x
+Solihull,E08000029,localAuthority,2022 May,Total,468,444
+Solihull,E08000029,localAuthority,2022 May,Primary,317,306
+Solihull,E08000029,localAuthority,2022 May,Secondary,151,138
+Staffordshire,E10000028,localAuthority,2022 May,Total,35,34
+Staffordshire,E10000028,localAuthority,2022 May,Primary,20,19
+Staffordshire,E10000028,localAuthority,2022 May,Secondary,15,15
+Stoke-on-Trent,E06000021,localAuthority,2022 May,Total,2,2
+Stoke-on-Trent,E06000021,localAuthority,2022 May,Primary,2,2
+Stoke-on-Trent,E06000021,localAuthority,2022 May,Secondary,0,0
+Telford and Wrekin,E06000020,localAuthority,2022 May,Total,21,15
+Telford and Wrekin,E06000020,localAuthority,2022 May,Primary,16,13
+Telford and Wrekin,E06000020,localAuthority,2022 May,Secondary,5,2
+Walsall,E08000030,localAuthority,2022 May,Total,x,x
+Walsall,E08000030,localAuthority,2022 May,Primary,x,x
+Walsall,E08000030,localAuthority,2022 May,Secondary,x,x
+Warwickshire,E10000031,localAuthority,2022 May,Total,92,74
+Warwickshire,E10000031,localAuthority,2022 May,Primary,67,49
+Warwickshire,E10000031,localAuthority,2022 May,Secondary,25,25
+Wolverhampton,E08000031,localAuthority,2022 May,Total,0,0
+Wolverhampton,E08000031,localAuthority,2022 May,Primary,0,0
+Wolverhampton,E08000031,localAuthority,2022 May,Secondary,0,0
+Worcestershire,E10000034,localAuthority,2022 May,Total,20,14
+Worcestershire,E10000034,localAuthority,2022 May,Primary,12,10
+Worcestershire,E10000034,localAuthority,2022 May,Secondary,8,4
+Bedford,E06000055,localAuthority,2022 May,Total,13,13
+Bedford,E06000055,localAuthority,2022 May,Primary,7,7
+Bedford,E06000055,localAuthority,2022 May,Secondary,6,6
+Cambridgeshire,E10000003,localAuthority,2022 May,Total,138,138
+Cambridgeshire,E10000003,localAuthority,2022 May,Primary,90,90
+Cambridgeshire,E10000003,localAuthority,2022 May,Secondary,48,48
+Central Bedfordshire,E06000056,localAuthority,2022 May,Total,16,16
+Central Bedfordshire,E06000056,localAuthority,2022 May,Primary,13,13
+Central Bedfordshire,E06000056,localAuthority,2022 May,Secondary,3,3
+Essex,E10000012,localAuthority,2022 May,Total,14,14
+Essex,E10000012,localAuthority,2022 May,Primary,9,9
+Essex,E10000012,localAuthority,2022 May,Secondary,5,5
+Hertfordshire,E10000015,localAuthority,2022 May,Total,446,425
+Hertfordshire,E10000015,localAuthority,2022 May,Primary,320,314
+Hertfordshire,E10000015,localAuthority,2022 May,Secondary,126,111
+Luton,E06000032,localAuthority,2022 May,Total,3,3
+Luton,E06000032,localAuthority,2022 May,Primary,3,3
+Luton,E06000032,localAuthority,2022 May,Secondary,0,0
+Norfolk,E10000020,localAuthority,2022 May,Total,60,56
+Norfolk,E10000020,localAuthority,2022 May,Primary,34,33
+Norfolk,E10000020,localAuthority,2022 May,Secondary,26,23
+Peterborough,E06000031,localAuthority,2022 May,Total,11,11
+Peterborough,E06000031,localAuthority,2022 May,Primary,10,10
+Peterborough,E06000031,localAuthority,2022 May,Secondary,1,1
+Southend-on-Sea,E06000033,localAuthority,2022 May,Total,1,1
+Southend-on-Sea,E06000033,localAuthority,2022 May,Primary,1,1
+Southend-on-Sea,E06000033,localAuthority,2022 May,Secondary,0,0
+Suffolk,E10000029,localAuthority,2022 May,Total,6,5
+Suffolk,E10000029,localAuthority,2022 May,Primary,1,1
+Suffolk,E10000029,localAuthority,2022 May,Secondary,5,4
+Thurrock,E06000034,localAuthority,2022 May,Total,x,x
+Thurrock,E06000034,localAuthority,2022 May,Primary,x,x
+Thurrock,E06000034,localAuthority,2022 May,Secondary,x,x
+Barking and Dagenham,E09000002,localAuthority,2022 May,Total,2,2
+Barking and Dagenham,E09000002,localAuthority,2022 May,Primary,x,x
+Barking and Dagenham,E09000002,localAuthority,2022 May,Secondary,x,x
+Barnet,E09000003,localAuthority,2022 May,Total,269,268
+Barnet,E09000003,localAuthority,2022 May,Primary,169,169
+Barnet,E09000003,localAuthority,2022 May,Secondary,100,99
+Bexley,E09000004,localAuthority,2022 May,Total,x,x
+Bexley,E09000004,localAuthority,2022 May,Primary,x,x
+Bexley,E09000004,localAuthority,2022 May,Secondary,x,x
+Brent,E09000005,localAuthority,2022 May,Total,17,15
+Brent,E09000005,localAuthority,2022 May,Primary,10,10
+Brent,E09000005,localAuthority,2022 May,Secondary,7,5
+Bromley,E09000006,localAuthority,2022 May,Total,69,61
+Bromley,E09000006,localAuthority,2022 May,Primary,50,45
+Bromley,E09000006,localAuthority,2022 May,Secondary,19,16
+Camden,E09000007,localAuthority,2022 May,Total,x,4
+Camden,E09000007,localAuthority,2022 May,Primary,x,3
+Camden,E09000007,localAuthority,2022 May,Secondary,x,1
+City of London,E09000001,localAuthority,2022 May,Total,0,0
+City of London,E09000001,localAuthority,2022 May,Primary,0,0
+City of London,E09000001,localAuthority,2022 May,Secondary,0,0
+Croydon,E09000008,localAuthority,2022 May,Total,41,37
+Croydon,E09000008,localAuthority,2022 May,Primary,28,28
+Croydon,E09000008,localAuthority,2022 May,Secondary,13,9
+Ealing,E09000009,localAuthority,2022 May,Total,0,0
+Ealing,E09000009,localAuthority,2022 May,Primary,0,0
+Ealing,E09000009,localAuthority,2022 May,Secondary,0,0
+Enfield,E09000010,localAuthority,2022 May,Total,21,21
+Enfield,E09000010,localAuthority,2022 May,Primary,14,14
+Enfield,E09000010,localAuthority,2022 May,Secondary,7,7
+Greenwich,E09000011,localAuthority,2022 May,Total,3,3
+Greenwich,E09000011,localAuthority,2022 May,Primary,1,1
+Greenwich,E09000011,localAuthority,2022 May,Secondary,2,2
+Hackney,E09000012,localAuthority,2022 May,Total,x,x
+Hackney,E09000012,localAuthority,2022 May,Primary,x,x
+Hackney,E09000012,localAuthority,2022 May,Secondary,x,x
+Hammersmith and Fulham,E09000013,localAuthority,2022 May,Total,4,4
+Hammersmith and Fulham,E09000013,localAuthority,2022 May,Primary,4,4
+Hammersmith and Fulham,E09000013,localAuthority,2022 May,Secondary,0,0
+Haringey,E09000014,localAuthority,2022 May,Total,11,9
+Haringey,E09000014,localAuthority,2022 May,Primary,8,7
+Haringey,E09000014,localAuthority,2022 May,Secondary,3,2
+Harrow,E09000015,localAuthority,2022 May,Total,86,86
+Harrow,E09000015,localAuthority,2022 May,Primary,59,59
+Harrow,E09000015,localAuthority,2022 May,Secondary,27,27
+Havering,E09000016,localAuthority,2022 May,Total,2,2
+Havering,E09000016,localAuthority,2022 May,Primary,1,1
+Havering,E09000016,localAuthority,2022 May,Secondary,1,1
+Hillingdon,E09000017,localAuthority,2022 May,Total,27,22
+Hillingdon,E09000017,localAuthority,2022 May,Primary,16,15
+Hillingdon,E09000017,localAuthority,2022 May,Secondary,11,7
+Hounslow,E09000018,localAuthority,2022 May,Total,13,11
+Hounslow,E09000018,localAuthority,2022 May,Primary,10,10
+Hounslow,E09000018,localAuthority,2022 May,Secondary,3,1
+Islington,E09000019,localAuthority,2022 May,Total,5,5
+Islington,E09000019,localAuthority,2022 May,Primary,5,5
+Islington,E09000019,localAuthority,2022 May,Secondary,0,0
+Kensington and Chelsea,E09000020,localAuthority,2022 May,Total,x,x
+Kensington and Chelsea,E09000020,localAuthority,2022 May,Primary,x,x
+Kensington and Chelsea,E09000020,localAuthority,2022 May,Secondary,x,x
+Kingston upon Thames,E09000021,localAuthority,2022 May,Total,522,510
+Kingston upon Thames,E09000021,localAuthority,2022 May,Primary,374,368
+Kingston upon Thames,E09000021,localAuthority,2022 May,Secondary,148,142
+Lambeth,E09000022,localAuthority,2022 May,Total,x,x
+Lambeth,E09000022,localAuthority,2022 May,Primary,x,x
+Lambeth,E09000022,localAuthority,2022 May,Secondary,x,x
+Lewisham,E09000023,localAuthority,2022 May,Total,x,x
+Lewisham,E09000023,localAuthority,2022 May,Primary,x,x
+Lewisham,E09000023,localAuthority,2022 May,Secondary,x,x
+Merton,E09000024,localAuthority,2022 May,Total,112,104
+Merton,E09000024,localAuthority,2022 May,Primary,92,84
+Merton,E09000024,localAuthority,2022 May,Secondary,20,20
+Newham,E09000025,localAuthority,2022 May,Total,0,0
+Newham,E09000025,localAuthority,2022 May,Primary,0,0
+Newham,E09000025,localAuthority,2022 May,Secondary,0,0
+Redbridge,E09000026,localAuthority,2022 May,Total,x,x
+Redbridge,E09000026,localAuthority,2022 May,Primary,x,x
+Redbridge,E09000026,localAuthority,2022 May,Secondary,x,x
+Richmond upon Thames,E09000027,localAuthority,2022 May,Total,460,441
+Richmond upon Thames,E09000027,localAuthority,2022 May,Primary,333,325
+Richmond upon Thames,E09000027,localAuthority,2022 May,Secondary,127,116
+Southwark,E09000028,localAuthority,2022 May,Total,x,x
+Southwark,E09000028,localAuthority,2022 May,Primary,x,x
+Southwark,E09000028,localAuthority,2022 May,Secondary,x,x
+Sutton,E09000029,localAuthority,2022 May,Total,x,x
+Sutton,E09000029,localAuthority,2022 May,Primary,x,x
+Sutton,E09000029,localAuthority,2022 May,Secondary,x,x
+Tower Hamlets,E09000030,localAuthority,2022 May,Total,1,1
+Tower Hamlets,E09000030,localAuthority,2022 May,Primary,0,0
+Tower Hamlets,E09000030,localAuthority,2022 May,Secondary,1,1
+Waltham Forest,E09000031,localAuthority,2022 May,Total,0,0
+Waltham Forest,E09000031,localAuthority,2022 May,Primary,0,0
+Waltham Forest,E09000031,localAuthority,2022 May,Secondary,0,0
+Wandsworth,E09000032,localAuthority,2022 May,Total,2,2
+Wandsworth,E09000032,localAuthority,2022 May,Primary,2,2
+Wandsworth,E09000032,localAuthority,2022 May,Secondary,0,0
+Westminster,E09000033,localAuthority,2022 May,Total,x,x
+Westminster,E09000033,localAuthority,2022 May,Primary,x,x
+Westminster,E09000033,localAuthority,2022 May,Secondary,x,x
+Bracknell Forest,E06000036,localAuthority,2022 May,Total,84,84
+Bracknell Forest,E06000036,localAuthority,2022 May,Primary,47,47
+Bracknell Forest,E06000036,localAuthority,2022 May,Secondary,37,37
+Brighton and Hove,E06000043,localAuthority,2022 May,Total,14,14
+Brighton and Hove,E06000043,localAuthority,2022 May,Primary,5,5
+Brighton and Hove,E06000043,localAuthority,2022 May,Secondary,9,9
+Buckinghamshire,E06000060,localAuthority,2022 May,Total,14,14
+Buckinghamshire,E06000060,localAuthority,2022 May,Primary,14,14
+Buckinghamshire,E06000060,localAuthority,2022 May,Secondary,0,0
+East Sussex,E10000011,localAuthority,2022 May,Total,10,9
+East Sussex,E10000011,localAuthority,2022 May,Primary,7,6
+East Sussex,E10000011,localAuthority,2022 May,Secondary,3,3
+Hampshire,E10000014,localAuthority,2022 May,Total,55,50
+Hampshire,E10000014,localAuthority,2022 May,Primary,25,23
+Hampshire,E10000014,localAuthority,2022 May,Secondary,30,27
+Isle of Wight,E06000046,localAuthority,2022 May,Total,2,2
+Isle of Wight,E06000046,localAuthority,2022 May,Primary,2,2
+Isle of Wight,E06000046,localAuthority,2022 May,Secondary,0,0
+Kent,E10000016,localAuthority,2022 May,Total,0,0
+Kent,E10000016,localAuthority,2022 May,Primary,0,0
+Kent,E10000016,localAuthority,2022 May,Secondary,0,0
+Medway,E06000035,localAuthority,2022 May,Total,45,45
+Medway,E06000035,localAuthority,2022 May,Primary,20,20
+Medway,E06000035,localAuthority,2022 May,Secondary,25,25
+Milton Keynes,E06000042,localAuthority,2022 May,Total,305,290
+Milton Keynes,E06000042,localAuthority,2022 May,Primary,224,214
+Milton Keynes,E06000042,localAuthority,2022 May,Secondary,81,76
+Oxfordshire,E10000025,localAuthority,2022 May,Total,107,43
+Oxfordshire,E10000025,localAuthority,2022 May,Primary,x,x
+Oxfordshire,E10000025,localAuthority,2022 May,Secondary,x,x
+Portsmouth,E06000044,localAuthority,2022 May,Total,x,x
+Portsmouth,E06000044,localAuthority,2022 May,Primary,x,x
+Portsmouth,E06000044,localAuthority,2022 May,Secondary,x,x
+Reading,E06000038,localAuthority,2022 May,Total,123,115
+Reading,E06000038,localAuthority,2022 May,Primary,85,83
+Reading,E06000038,localAuthority,2022 May,Secondary,38,32
+Slough,E06000039,localAuthority,2022 May,Total,8,6
+Slough,E06000039,localAuthority,2022 May,Primary,2,2
+Slough,E06000039,localAuthority,2022 May,Secondary,6,4
+Southampton,E06000045,localAuthority,2022 May,Total,x,x
+Southampton,E06000045,localAuthority,2022 May,Primary,x,x
+Southampton,E06000045,localAuthority,2022 May,Secondary,x,x
+Surrey,E10000030,localAuthority,2022 May,Total,366,301
+Surrey,E10000030,localAuthority,2022 May,Primary,229,194
+Surrey,E10000030,localAuthority,2022 May,Secondary,137,107
+West Berkshire,E06000037,localAuthority,2022 May,Total,x,x
+West Berkshire,E06000037,localAuthority,2022 May,Primary,x,x
+West Berkshire,E06000037,localAuthority,2022 May,Secondary,x,x
+West Sussex,E10000032,localAuthority,2022 May,Total,27,27
+West Sussex,E10000032,localAuthority,2022 May,Primary,19,19
+West Sussex,E10000032,localAuthority,2022 May,Secondary,8,8
+Windsor and Maidenhead,E06000040,localAuthority,2022 May,Total,70,70
+Windsor and Maidenhead,E06000040,localAuthority,2022 May,Primary,37,37
+Windsor and Maidenhead,E06000040,localAuthority,2022 May,Secondary,33,33
+Wokingham,E06000041,localAuthority,2022 May,Total,x,x
+Wokingham,E06000041,localAuthority,2022 May,Primary,x,x
+Wokingham,E06000041,localAuthority,2022 May,Secondary,x,x
+Bath and North East Somerset,E06000022,localAuthority,2022 May,Total,22,22
+Bath and North East Somerset,E06000022,localAuthority,2022 May,Primary,12,12
+Bath and North East Somerset,E06000022,localAuthority,2022 May,Secondary,10,10
+"Bournemouth, Christchurch and Poole",E06000058,localAuthority,2022 May,Total,61,61
+"Bournemouth, Christchurch and Poole",E06000058,localAuthority,2022 May,Primary,40,40
+"Bournemouth, Christchurch and Poole",E06000058,localAuthority,2022 May,Secondary,21,21
+"Bristol, City of",E06000023,localAuthority,2022 May,Total,131,131
+"Bristol, City of",E06000023,localAuthority,2022 May,Primary,70,70
+"Bristol, City of",E06000023,localAuthority,2022 May,Secondary,61,61
+Cornwall,E06000052,localAuthority,2022 May,Total,0,0
+Cornwall,E06000052,localAuthority,2022 May,Primary,0,0
+Cornwall,E06000052,localAuthority,2022 May,Secondary,0,0
+Devon,E10000008,localAuthority,2022 May,Total,0,0
+Devon,E10000008,localAuthority,2022 May,Primary,0,0
+Devon,E10000008,localAuthority,2022 May,Secondary,0,0
+Dorset,E06000059,localAuthority,2022 May,Total,3,3
+Dorset,E06000059,localAuthority,2022 May,Primary,3,3
+Dorset,E06000059,localAuthority,2022 May,Secondary,0,0
+Gloucestershire,E10000013,localAuthority,2022 May,Total,57,57
+Gloucestershire,E10000013,localAuthority,2022 May,Primary,39,39
+Gloucestershire,E10000013,localAuthority,2022 May,Secondary,18,18
+Isles of Scilly,E06000053,localAuthority,2022 May,Total,x,x
+Isles of Scilly,E06000053,localAuthority,2022 May,Primary,x,x
+Isles of Scilly,E06000053,localAuthority,2022 May,Secondary,x,x
+North Somerset,E06000024,localAuthority,2022 May,Total,24,24
+North Somerset,E06000024,localAuthority,2022 May,Primary,16,16
+North Somerset,E06000024,localAuthority,2022 May,Secondary,8,8
+Plymouth,E06000026,localAuthority,2022 May,Total,9,9
+Plymouth,E06000026,localAuthority,2022 May,Primary,5,5
+Plymouth,E06000026,localAuthority,2022 May,Secondary,4,4
+Somerset,E10000027,localAuthority,2022 May,Total,x,x
+Somerset,E10000027,localAuthority,2022 May,Primary,x,x
+Somerset,E10000027,localAuthority,2022 May,Secondary,x,x
+South Gloucestershire,E06000025,localAuthority,2022 May,Total,330,287
+South Gloucestershire,E06000025,localAuthority,2022 May,Primary,230,207
+South Gloucestershire,E06000025,localAuthority,2022 May,Secondary,100,80
+Swindon,E06000030,localAuthority,2022 May,Total,38,32
+Swindon,E06000030,localAuthority,2022 May,Primary,21,17
+Swindon,E06000030,localAuthority,2022 May,Secondary,17,15
+Torbay,E06000027,localAuthority,2022 May,Total,4,4
+Torbay,E06000027,localAuthority,2022 May,Primary,4,4
+Torbay,E06000027,localAuthority,2022 May,Secondary,0,0
+Wiltshire,E06000054,localAuthority,2022 May,Total,56,55
+Wiltshire,E06000054,localAuthority,2022 May,Primary,27,27
+Wiltshire,E06000054,localAuthority,2022 May,Secondary,29,28
